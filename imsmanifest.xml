@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_62ukBIMGIkM_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Тест на выгорание</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Тест_на_выгорание_ORG">
+    <organization identifier="Тест_на_выгорание_ORG">
+      <title>Тест на выгорание</title>
+      <item identifier="Burnout_test_SCO" isvisible="true" identifierref="__62ukBIMGIkM_course_id_RES">
+        <title>Тест на выгорание</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__62ukBIMGIkM_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5g6AJJkiqFL_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/64zD4KFKFqD_DX870_DY870_CX435_CY83.png" />
+      <file href="mobile/66cqDOsyrcz_DX870_DY870_CX435_CY83.png" />
+      <file href="mobile/5WF3wf6LHVF_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/5cr1Y8opcVM_DX1272_DY1272_CX636_CY83.png" />
+      <file href="mobile/5egRcdZVm36_DX1274_DY1274_CX637_CY83.png" />
+      <file href="mobile/6YZpCuHE1nH_DX1272_DY1272_CX636_CY83.png" />
+      <file href="mobile/5yblqpdcdX5_DX1272_DY1272_CX636_CY83.png" />
+      <file href="mobile/6FqvRPqNH6f_DX1274_DY1274_CX637_CY83.png" />
+      <file href="mobile/62b4UiHHMHY_DX1272_DY1272_CX636_CY83.png" />
+      <file href="mobile/6YstVUQRTvN_DX1274_DY1274_CX637_CY83.png" />
+      <file href="mobile/5gEwfF3edzP_DX1272_DY1272_CX636_CY83.png" />
+      <file href="mobile/5vGoXUeFHr2_DX1274_DY1274_CX637_CY83.png" />
+      <file href="mobile/6Z7IkpV4oob_DX1272_DY1272_CX636_CY83.png" />
+      <file href="mobile/6aPBMBamJtZ_DX1274_DY1274_CX637_CY83.png" />
+      <file href="mobile/6kNDhG0eIUH_DX440_DY440_CX220_CY83.png" />
+      <file href="mobile/5wXcqYQlPBC_DX440_DY440_CX220_CY83.png" />
+      <file href="mobile/63R6CihufnV_DX440_DY440_CX220_CY83.png" />
+      <file href="mobile/5UkvcCp975C_DX166_DY166_CX83_CY83.png" />
+      <file href="mobile/6omYaF9N9Bi_DX166_DY166_CX83_CY83.png" />
+      <file href="mobile/60OaMGEgxAM_DX166_DY166_CX83_CY83.png" />
+      <file href="mobile/6fC0zRy6Aoj_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/6a0JB8LqdSg_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/6cmYE7wNR9j_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/5idaGu5dHmt_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/6ZZ2rMlxptB_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/5ctjzCAlVjK_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/5zgEEorb9wU_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/6henNOWqItY_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/6mAweNQqz7V_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/6l7Qz50YHtu_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/6pATUG99LUz_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/6amkzjveUzv_P_1026_0_894_1080_DX3840_DY3840_CX894_CY1080.png" />
+      <file href="mobile/6DPWoiqwf42_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/6fVRp2XnmSx_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/5jwqpHFGyYR_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/6e63VW6fnA7_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/5yH9Fjq8w7p_DX870_DY870_CX435_CY83.png" />
+      <file href="mobile/6W77J3yBLA0_DX870_DY870_CX435_CY83.png" />
+      <file href="mobile/6oyatDhR3Hb_DX166_DY166_CX83_CY83.png" />
+      <file href="mobile/6HtknYGGLet_DX166_DY166_CX83_CY83.png" />
+      <file href="mobile/62gKx1TiHNq_DX166_DY166_CX83_CY83.png" />
+      <file href="mobile/5iGpgV3hvZt_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/6KvGXimYGFk_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="mobile/5r3uZfaD3dV_DX3840_DY3840_CX1920_CY1080.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5vJk4EirLOW.js" />
+      <file href="html5/data/js/5WF0CWum3qE.js" />
+      <file href="html5/data/js/62xvkir5jEd.js" />
+      <file href="html5/data/js/6PyHrIOgcz4.js" />
+      <file href="html5/data/js/5tbz6NKN40F.js" />
+      <file href="html5/data/js/5fPPBF7gOV2.js" />
+      <file href="html5/data/js/6kcESy2tqhO.js" />
+      <file href="html5/data/js/62pnpiP6VKp.js" />
+      <file href="html5/data/js/65kq9D6Y0UQ.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/js/6V2sz0sgrBI.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/5iISYKyFfXw.js" />
+      <file href="html5/data/js/6WpvV7CN8Y0.js" />
+      <file href="html5/data/js/5UjEL93ente.js" />
+      <file href="html5/data/js/6VfM24OlRLC.js" />
+      <file href="html5/data/js/6DsEc0pykaq.js" />
+      <file href="html5/data/js/6caqMVdXG6S.js" />
+      <file href="html5/data/js/6nCCPmxzowy.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/6RQnIMZQHpN.js" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
